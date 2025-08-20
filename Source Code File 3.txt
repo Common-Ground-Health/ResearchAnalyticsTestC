@@ -1,0 +1,1 @@
+Contents of third test file, first line, only line, this file will be deleted.
